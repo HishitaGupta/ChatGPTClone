@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Logs / temp
+logs/
+*.log
+tmp/
+temp/
+
+# Databases / local settings
+*.sqlite3
+db.sqlite3
+local_settings.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Node (if present)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Misc
+*.pem
+*.key
+*.bak
